@@ -1,11 +1,10 @@
 ---
-title: "MAXQDA: Information, Resources, Tutorials, and Workshops"
-layout: "home"
-description: ""
-permalink: "/"  #! Remove this if not the homepage
+title: MAXQDA: Information, Resources, Tutorials, and Workshops | Map and Data Library
+layout: home
+description: 
 ---
 
-# MAXQDA: Information, Resources, Tutorials, and Workshops
+# MAXQDA: Information, Resources, Tutorials, and Workshops | Map and Data Library
 
 [MAXQDA](https://www.maxqda.com/) is a program used for qualitative data analysis. It supports researchers in managing, organizing, and analyzing qualitative data to produce new insight, infer relationships, and identify themes.
 
@@ -35,19 +34,25 @@ MDL Learning Resources
 
 ### Workshops
 
-Embedded below are recordings of our live workshops on MAXQDA (Part 2 is coming soon!):
+Embedded below are recordings of our live workshops on MAXQDA:
 
-[Introduction to Using MAXQDA for Qualitative Data Analysis: Part 1](https://play.library.utoronto.ca/watch/028837a5d91c16a691930400cf96bc2b)
+[Introduction to Using MAXQDA for Qualitative Data Analysis: Part 1](https://play.library.utoronto.ca/watch/d8bee0965610e6422103ad8a8eefac21)
 
 * To follow along, please follow the [setup instructions](https://maps.library.utoronto.ca/workshops/MAXQDA/Part1/MAXQDA1SetupInstructions.pdf) to get all the slides and sample datasets used in the workshop
 
-[https://play.library.utoronto.ca/embed/028837a5d91c16a691930400cf96bc2b](https://play.library.utoronto.ca/embed/028837a5d91c16a691930400cf96bc2b)
+[https://play.library.utoronto.ca/embed/d8bee0965610e6422103ad8a8eefac21](https://play.library.utoronto.ca/embed/d8bee0965610e6422103ad8a8eefac21)
 
-[Introduction to Using MAXQDA for Qualitative Data Analysis: Part 2](https://play.library.utoronto.ca/watch/b2e7b3c98528d9d33765b15aaea85d16)
+[Introduction to Using MAXQDA for Qualitative Data Analysis: Part 2](https://play.library.utoronto.ca/watch/6389a932680dd5db0e73aa15709357e2)
 
 * To follow along, please follow the [setup instructions](https://maps.library.utoronto.ca/workshops/MAXQDA/Part2/MAXQDA2SetupInstructions.pdf) to get all the slides and sample datasets used in the workshop
 
-[https://play.library.utoronto.ca/embed/b2e7b3c98528d9d33765b15aaea85d16](https://play.library.utoronto.ca/embed/b2e7b3c98528d9d33765b15aaea85d16)
+[https://play.library.utoronto.ca/embed/6389a932680dd5db0e73aa15709357e2](https://play.library.utoronto.ca/embed/6389a932680dd5db0e73aa15709357e2)
+
+[Introduction to Using MAXQDA \& AI for Qualitative Data Analysis: Part 3](https://play.library.utoronto.ca/watch/4c7963e2283d3d7d5b7ee5e49ccd1622)
+
+* [Slides](https://uoft.me/MAXQDA3slides)
+
+[https://play.library.utoronto.ca/embed/4c7963e2283d3d7d5b7ee5e49ccd1622](https://play.library.utoronto.ca/embed/4c7963e2283d3d7d5b7ee5e49ccd1622)
 
 ### Tutorials
 
@@ -72,8 +77,10 @@ Additional Resources to Learn More
 
 * [SAGE’s Coding Resources](https://methods-sagepub-com.myaccess.library.utoronto.ca/Search/Results?q=PwSwdgxgNgrgJgUwKJgC4gE4IOoHsMDWAzgLyoYwIBk408CACgIYaqnmU2SyIDKCAcwC2CNOwrUCCAJ4B3fHFIBSAKwAhJQHYNAJh0AzEAihwlepQGYAgmYMwoUVAgAeqW2YDCtp6-fXbELhw4ALumgAiquFAA)
 * [Essential Guide to Coding Qualitative Data](https://delvetool.com/guide)
-* [The Coding Manual for Qualitative Researchers](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106523498006196) by Saldaña \[Print Book]
+* [The Coding Manual for Qualitative Researchers](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106523498006196) by Johnny Saldaña \[Print Book]
 * [A Guide to Qualitative Interviewing \[and Coding]](https://www.utsc.utoronto.ca/~pchsiung/LAL/home) by Ping\-Chun Hsiung
+* [Using Software in Qualitative Research: A Step\-by\-Step Guide](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/k9bh95/alma991106731429706196) by Christina Silver \[Online Book]
+* [Qualitative Analysis Using MAXQDA: The Five\-Level QDA™ Method](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/k9bh95/alma991106899567206196) by Nicholas Woolf \[Online Book]
 
 ### MAXQDA
 
@@ -84,6 +91,7 @@ Additional Resources to Learn More
 * [MAXQDA Blog](https://www.maxqda.com/blog)
 * [Different files you can import into MAXQDA](https://www.maxqda.com/help-mx24/import/data-types)
 * [Working in Teams Using MAXQDA](https://www.maxqda.com/help-mx24/teamwork/can-maxqda-support-teamwork)
+* [MAXQDA Video Tutorials from QDAS](https://www.qdas.co.uk/maxqda-tutorials)
 
 ### Related Information
 
@@ -91,4 +99,4 @@ Additional Resources to Learn More
 * [Qualitative Data Analysis Software Options](https://mdl.library.utoronto.ca/technology/tutorials/qualitative-data-analysis-software-options)
 * [NVivo: Information, Tutorials, and Workshops](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-information-resources-tutorials-and-workshops)
 
-Technique: [Qualitative Data Analysis](/technique/qualitative-data-analysis) \| Tools: [MAXQDA](/tools/maxqda)**Date Created:** 2025\-07\-22**Updated:** 2025\-11\-06
+Technique: [Qualitative Data Analysis](/technique/qualitative-data-analysis) \| Tools: [MAXQDA](/tools/maxqda)**Date Created:** 2025\-07\-22**Updated:** 2026\-03\-25
