@@ -61,14 +61,6 @@ Embedded below are recordings of our live workshops on MAXQDA:
 
 * [Slides](https://uoft.me/MAXQDA3slides)
 
-<iframe
-  src="https://maps.library.utoronto.ca/workshops/MAXQDA/Part3/MAXQDA3Slides.pdf"
-  width="100%"
-  height="500"
-  style="border: none;">
-</iframe>
-
-
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/4c7963e2283d3d7d5b7ee5e49ccd1622" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 ### Tutorials
