@@ -9,6 +9,7 @@ Additional Resources to Learn More
 ----------------------------------
 * [Qualitative Research Methods](#qualitative-research-methods)
 * [Qualitative Data Analysis and Coding](#qualitative-data-analysis-and-coding)
+* [MAXQDA](#maxqda)
 * [Related Information](#related-information)
 
 ### Qualitative Research Methods
@@ -18,7 +19,7 @@ Additional Resources to Learn More
 * [Qualitative Research Methods for the Social Sciences](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106187539806196) by Berg and Lune [Print Book]
 * [Qualitative Research Methods: A Data Collector's Field Guide](https://www.fhi360.org/sites/default/files/media/documents/Qualitative%20Research%20Methods%20-%20A%20Data%20Collector%27s%20Field%20Guide.pdf) by Mack et al [Online Open Book]
 * [An Introduction to Qualitative Research: Learning in the Field](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106474314006196) by Rossman and Rallis [Print Book]
-* [Research Methods in Education](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991107039180706196) by Cohen et al [Online Book] (has a few chapters on qualitative research methods and coding)
+* [Research Methods in Education](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991107039180706196) by Cohen et al [Online Book - has a few chapters on qualitative research methods and coding]
 
 ### Qualitative Data Analysis and Coding
 
@@ -43,7 +44,7 @@ Additional Resources to Learn More
 ### Related Information
 
 * [Introduction to OCR and Searchable PDFs: Adobe Acrobat Pro](https://guides.library.illinois.edu/c.php?g=347520&p=4116755)
-* [Qualitative Data Analysis Software Options](https://mdl.library.utoronto.ca/technology/tutorials/qualitative-data-analysis-software-options)
-* [NVivo: Information, Tutorials, and Workshops](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-information-resources-tutorials-and-workshops)
+* [Qualitative Data Analysis Software Options](https://mdlutoronto.github.io/qualitative-data-analysis-software-options/)
+* [NVivo: Information, Tutorials, and Workshops](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/)
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
