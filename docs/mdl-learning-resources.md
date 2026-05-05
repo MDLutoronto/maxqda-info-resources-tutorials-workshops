@@ -7,6 +7,8 @@ layout: default
 
 MDL Learning Resources
 ----------------------
+* [Workshops](#workshops)
+* [Tutorials](#tutorials)
 
 ### Workshops
 
@@ -33,7 +35,7 @@ Embedded below are recordings of our live workshops on MAXQDA:
 ### Tutorials
 
 * [Getting MAXQDA](https://mdlutoronto.github.io/maxqda-getting/)
-* [Introduction to Using MAXQDA for Qualitative Data Analysis](https://mdl.library.utoronto.ca/technology/tutorials/introduction-using-maxqda-qualitative-data-analysis)
+* [Introduction to Using MAXQDA for Qualitative Data Analysis](https://mdlutoronto.github.io/maxqda-intro-quali-data-analysis/)
 * [Moving from NVivo to MAXQDA](https://mdlutoronto.github.io/nvivo-to-maxqda/)
 * [Transcription Options](https://mdlutoronto.github.io/transcription-options/)
 
