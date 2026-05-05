@@ -35,7 +35,7 @@ Additional Resources to Learn More
 ## Getting Started
 {: #getting-started}
 
-* Consult our [tutorial](https://mdl.library.utoronto.ca/technology/tutorials/getting-maxqda) on ways to access MAXQDA
+* Consult our [tutorial](https://mdlutoronto.github.io/maxqda-getting/) on ways to access MAXQDA
 
 MDL Learning Resources
 ----------------------
@@ -65,31 +65,31 @@ Embedded below are recordings of our live workshops on MAXQDA:
 
 ### Tutorials
 
-* [Getting MAXQDA](https://mdl.library.utoronto.ca/technology/tutorials/getting-maxqda)
+* [Getting MAXQDA](https://mdlutoronto.github.io/maxqda-getting/)
 * [Introduction to Using MAXQDA for Qualitative Data Analysis](https://mdl.library.utoronto.ca/technology/tutorials/introduction-using-maxqda-qualitative-data-analysis)
-* [Moving from NVivo to MAXQDA](https://mdl.library.utoronto.ca/technology/tutorials/moving-nvivo-maxqda)
-* [Transcription Options](https://mdl.library.utoronto.ca/technology/tutorials/transcription-options)
+* [Moving from NVivo to MAXQDA](https://mdlutoronto.github.io/nvivo-to-maxqda/)
+* [Transcription Options](https://mdlutoronto.github.io/transcription-options/)
 
 Additional Resources to Learn More
 ----------------------------------
 
 ### Qualitative Research Methods
 
-* [The SAGE Encyclopedia of Qualitative Research Methods](http://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106817689506196) [Online Book]
-* [SAGE’s Qualitative Research Methods series](https://login.library.utoronto.ca/index.php?url=https://methods.sagepub.com/Search/Results?q=PwYwDgzgkgdiA2BXAJgUwMIHsYBdW4BUBPMVCAXhwCdFUAyEbPQks8gUgFYAhdgJj7wAljhzxUAagBGSSVMyYA1hH58uAETpC4SNAFFcQqqgDqmKsso162hClQAFAIZUcFarS077AZVQBzAFt8NytPMCpMZEQQHAA5J2CKLm4%2BAE4NIA) [Online Book Series]
-* [Qualitative Research Methods for the Social Sciences](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106187539806196) by Berg and Lune [Print Book]
+* [The SAGE Encyclopedia of Qualitative Research Methods](http://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106817689506196) \[Online Book]
+* [SAGE’s Qualitative Research Methods series](https://login.library.utoronto.ca/index.php?url=https://methods.sagepub.com/Search/Results?q=PwYwDgzgkgdiA2BXAJgUwMIHsYBdW4BUBPMVCAXhwCdFUAyEbPQks8gUgFYAhdgJj7wAljhzxUAagBGSSVMyYA1hH58uAETpC4SNAFFcQqqgDqmKsso162hClQAFAIZUcFarS077AZVQBzAFt8NytPMCpMZEQQHAA5J2CKLm4%2BAE4NIA) \[Online Book Series]
+* [Qualitative Research Methods for the Social Sciences](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106187539806196) by Berg and Lune \[Print Book]
 * [Qualitative Research Methods: A Data Collector's Field Guide](https://www.fhi360.org/sites/default/files/media/documents/Qualitative%20Research%20Methods%20-%20A%20Data%20Collector%27s%20Field%20Guide.pdf) by Mack et al [Online Open Book]
-* [An Introduction to Qualitative Research: Learning in the Field](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106474314006196) by Rossman and Rallis [Print Book]
-* [Research Methods in Education](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991107039180706196) by Cohen et al [Online Book] (has a few chapters on qualitative research methods and coding)
+* [An Introduction to Qualitative Research: Learning in the Field](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106474314006196) by Rossman and Rallis \[Print Book]
+* [Research Methods in Education](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991107039180706196) by Cohen et al \[Online Book] (has a few chapters on qualitative research methods and coding)
 
 ### Qualitative Data Analysis and Coding
 
 * [SAGE’s Coding Resources](https://methods-sagepub-com.myaccess.library.utoronto.ca/Search/Results?q=PwSwdgxgNgrgJgUwKJgC4gE4IOoHsMDWAzgLyoYwIBk408CACgIYaqnmU2SyIDKCAcwC2CNOwrUCCAJ4B3fHFIBSAKwAhJQHYNAJh0AzEAihwlepQGYAgmYMwoUVAgAeqW2YDCtp6-fXbELhw4ALumgAiquFAA)
 * [Essential Guide to Coding Qualitative Data](https://delvetool.com/guide)
-* [The Coding Manual for Qualitative Researchers](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106523498006196) by Johnny Saldaña [Print Book]
+* [The Coding Manual for Qualitative Researchers](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106523498006196) by Johnny Saldaña \[Print Book]
 * [A Guide to Qualitative Interviewing [and Coding]](https://www.utsc.utoronto.ca/~pchsiung/LAL/home) by Ping-Chun Hsiung
-* [Using Software in Qualitative Research: A Step-by-Step Guide](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/k9bh95/alma991106731429706196) by Christina Silver [Online Book]
-* [Qualitative Analysis Using MAXQDA: The Five-Level QDA™ Method](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/k9bh95/alma991106899567206196) by Nicholas Woolf [Online Book]
+* [Using Software in Qualitative Research: A Step-by-Step Guide](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/k9bh95/alma991106731429706196) by Christina Silver \[Online Book]
+* [Qualitative Analysis Using MAXQDA: The Five-Level QDA™ Method](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/k9bh95/alma991106899567206196) by Nicholas Woolf \[Online Book]
 
 ### MAXQDA
 
