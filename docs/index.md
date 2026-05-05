@@ -1,5 +1,5 @@
 ---
-title: MAXQDA:Information, Resources, Tutorials, and Workshops | Map and Data Library
+title: MAXQDA:Information, Resources, Tutorials, and Workshops 
 layout: home
 description: "MAXQDA is a program used for qualitative data analysis. It supports researchers in managing, organizing, and analyzing qualitative data to produce new insight, infer relationships, and identify themes."
 staff:
@@ -9,14 +9,15 @@ maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 created_date: 2025-07-22
-
+nav_ord: 0
+has_children: true
 ---
 
-# MAXQDA: Information, Resources, Tutorials, and Workshops | Map and Data Library
+# MAXQDA: Information, Resources, Tutorials, and Workshops
 
 [MAXQDA](https://www.maxqda.com/) is a program used for qualitative data analysis. It supports researchers in managing, organizing, and analyzing qualitative data to produce new insight, infer relationships, and identify themes.
 
-Table of Contents
+<!-- Table of Contents
 -----------------
 
 [Getting Started](#getting-started)
@@ -91,19 +92,7 @@ Additional Resources to Learn More
 * [Using Software in Qualitative Research: A Step-by-Step Guide](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/k9bh95/alma991106731429706196) by Christina Silver [Online Book]
 * [Qualitative Analysis Using MAXQDA: The Five-Level QDA™ Method](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/k9bh95/alma991106899567206196) by Nicholas Woolf [Online Book]
 
-### MAXQDA
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
 
-* [MAXQDA Online Searchable Help](https://www.maxqda.com/help-mx24/welcome)
-* [MAXQDA Guides, Books & Additional Literature](https://www.maxqda.com/books-literature)
-* [MAXQDA Training](https://www.maxqda.com/maxqda-training)
-* [MAXQDA Press](https://www.maxqda-press.com/)
-* [MAXQDA Blog](https://www.maxqda.com/blog)
-* [Different files you can import into MAXQDA](https://www.maxqda.com/help-mx24/import/data-types)
-* [Working in Teams Using MAXQDA](https://www.maxqda.com/help-mx24/teamwork/can-maxqda-support-teamwork)
-* [MAXQDA Video Tutorials from QDAS](https://www.qdas.co.uk/maxqda-tutorials)
 
-### Related Information
 
-* [Introduction to OCR and Searchable PDFs: Adobe Acrobat Pro](https://guides.library.illinois.edu/c.php?g=347520&p=4116755)
-* [Qualitative Data Analysis Software Options](https://mdl.library.utoronto.ca/technology/tutorials/qualitative-data-analysis-software-options)
-* [NVivo: Information, Tutorials, and Workshops](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-information-resources-tutorials-and-workshops)
