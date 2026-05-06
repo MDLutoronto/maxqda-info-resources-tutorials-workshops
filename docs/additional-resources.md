@@ -17,7 +17,7 @@ Additional Resources to Learn More
 * [The SAGE Encyclopedia of Qualitative Research Methods](http://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106817689506196) [Online Book]
 * [SAGE’s Qualitative Research Methods series](https://login.library.utoronto.ca/index.php?url=https://methods.sagepub.com/Search/Results?q=PwYwDgzgkgdiA2BXAJgUwMIHsYBdW4BUBPMVCAXhwCdFUAyEbPQks8gUgFYAhdgJj7wAljhzxUAagBGSSVMyYA1hH58uAETpC4SNAFFcQqqgDqmKsso162hClQAFAIZUcFarS077AZVQBzAFt8NytPMCpMZEQQHAA5J2CKLm4%2BAE4NIA) [Online Book Series]
 * [Qualitative Research Methods for the Social Sciences](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106187539806196) by Berg and Lune [Print Book]
-* [Qualitative Research Methods: A Data Collector's Field Guide](https://www.fhi360.org/sites/default/files/media/documents/Qualitative%20Research%20Methods%20-%20A%20Data%20Collector%27s%20Field%20Guide.pdf) by Mack et al [Online Open Book]
+* [Qualitative Research Methods: A Data Collector's Field Guide](https://www.researchgate.net/publication/215666086_Qualitative_Research_Methods_A_Data_Collector's_Field_Guide) by Mack et al [Online Open Book]
 * [An Introduction to Qualitative Research: Learning in the Field](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106474314006196) by Rossman and Rallis [Print Book]
 * [Research Methods in Education](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991107039180706196) by Cohen et al [Online Book - has a few chapters on qualitative research methods and coding]
 
