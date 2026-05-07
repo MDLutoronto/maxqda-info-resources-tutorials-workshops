@@ -3,6 +3,13 @@ title: Getting Started
 parent: MAXQDA:Information, Resources, Tutorials, and Workshops  
 nav_order: 1
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2025-07-22
 ---
 
 ## Getting Started
