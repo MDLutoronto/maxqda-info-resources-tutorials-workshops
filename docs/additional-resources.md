@@ -3,6 +3,13 @@ title: Additional Resources to Learn More
 parent: MAXQDA:Information, Resources, Tutorials, and Workshops  
 nav_order: 3
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2025-07-22
 ---
 
 Additional Resources to Learn More
@@ -23,7 +30,7 @@ Additional Resources to Learn More
 
 ### Qualitative Data Analysis and Coding
 
-* [SAGE’s Coding Resources](https://methods-sagepub-com.myaccess.library.utoronto.ca/Search/Results?q=PwSwdgxgNgrgJgUwKJgC4gE4IOoHsMDWAzgLyoYwIBk408CACgIYaqnmU2SyIDKCAcwC2CNOwrUCCAJ4B3fHFIBSAKwAhJQHYNAJh0AzEAihwlepQGYAgmYMwoUVAgAeqW2YDCtp6-fXbELhw4ALumgAiquFAA)
+* [SAGE’s Coding Resources](https://methods.sagepub.com/Search/Results?q=PwSwdgxgNgrgJgUwKJgC4gE4IOoHsMDWAzgLyoYwIBk408CACgIYaqnmU2SyIDKCAcwC2CNOwrUCCAJ4B3fHFIBSAKwAhJQHYNAJh0AzEAihwlepQGYAgmYMwoUVAgAeqW2YDCtp6-fXbELhw4ALumgAiquFAA)
 * [Essential Guide to Coding Qualitative Data](https://delvetool.com/guide)
 * [The Coding Manual for Qualitative Researchers](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106523498006196) by Johnny Saldaña [Print Book]
 * [A Guide to Qualitative Interviewing [and Coding]](https://www.utsc.utoronto.ca/~pchsiung/LAL/home) by Ping-Chun Hsiung
