@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-parent: MAXQDA:Information, Resources, Tutorials, and Workshops  
+parent: "MAXQDA: Information, Resources, Tutorials, and Workshops"  
 nav_order: 1
 layout: default
 staff:

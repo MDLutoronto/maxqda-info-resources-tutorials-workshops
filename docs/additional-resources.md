@@ -1,6 +1,6 @@
 ---
 title: Additional Resources to Learn More
-parent: MAXQDA:Information, Resources, Tutorials, and Workshops  
+parent: "MAXQDA: Information, Resources, Tutorials, and Workshops" 
 nav_order: 3
 layout: default
 staff:
