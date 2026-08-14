@@ -47,6 +47,7 @@ Additional Resources to Learn More
 * [Different files you can import into MAXQDA](https://www.maxqda.com/help-mx24/import/data-types)
 * [Working in Teams Using MAXQDA](https://www.maxqda.com/help-mx24/teamwork/can-maxqda-support-teamwork)
 * [MAXQDA Video Tutorials from QDAS](https://www.qdas.co.uk/maxqda-tutorials)
+* [MAXQDA at your University](https://www.maxqda.com/uni-license)
 
 ### Related Information
 
