@@ -45,5 +45,6 @@ Embedded below are recordings of our live workshops on MAXQDA:
 * [Introduction to Using MAXQDA for Qualitative Data Analysis](https://mdlutoronto.github.io/maxqda-intro-quali-data-analysis/)
 * [Moving from NVivo to MAXQDA](https://mdlutoronto.github.io/nvivo-to-maxqda/)
 * [Transcription Options](https://mdlutoronto.github.io/transcription-options/)
+* [Working in Teams Using MAXQDA](https://mdlutoronto.github.io/working-teams-maxqda/)
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
