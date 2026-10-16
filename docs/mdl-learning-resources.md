@@ -25,17 +25,23 @@ Embedded below are recordings of our live workshops on MAXQDA:
 
 * To follow along, please follow the [setup instructions](https://maps.library.utoronto.ca/workshops/MAXQDA/Part1/MAXQDA1SetupInstructions.pdf) to get all the slides and sample datasets used in the workshop
 
+**Note that access to MAXQDA has changed since this workshop was recorded. Now faculty, staff, and students have access to a MAXQDA license for their own personal use. See our [Getting MAXQDA](https://mdlutoronto.github.io/maxqda-getting/) tutorial for more details.** 
+
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/d8bee0965610e6422103ad8a8eefac21" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 [Introduction to Using MAXQDA for Qualitative Data Analysis: Part 2](https://play.library.utoronto.ca/watch/6389a932680dd5db0e73aa15709357e2)
 
 * To follow along, please follow the [setup instructions](https://maps.library.utoronto.ca/workshops/MAXQDA/Part2/MAXQDA2SetupInstructions.pdf) to get all the slides and sample datasets used in the workshop
 
+**Note that access to MAXQDA has changed since this workshop was recorded. Now faculty, staff, and students have access to a MAXQDA license for their own personal use. See our [Getting MAXQDA](https://mdlutoronto.github.io/maxqda-getting/) tutorial for more details.** 
+
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/6389a932680dd5db0e73aa15709357e2" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 [Introduction to Using MAXQDA & AI for Qualitative Data Analysis: Part 3](https://play.library.utoronto.ca/watch/4c7963e2283d3d7d5b7ee5e49ccd1622)
 
 * [Slides](https://uoft.me/MAXQDA3slides)
+
+**Note that access to MAXQDA has changed since this workshop was recorded. Now faculty, staff, and students have access to a MAXQDA license for their own personal use, along with access to MAXQDA's Premium AI-Assist. See our [Getting MAXQDA](https://mdlutoronto.github.io/maxqda-getting/) tutorial for more details.** 
 
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/4c7963e2283d3d7d5b7ee5e49ccd1622" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
