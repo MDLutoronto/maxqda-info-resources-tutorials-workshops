@@ -45,6 +45,10 @@ Embedded below are recordings of our live workshops on MAXQDA:
 
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/4c7963e2283d3d7d5b7ee5e49ccd1622" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
+[Comparing NVivo vs MAXQDA](https://play.library.utoronto.ca/watch/bec038d36d975fb41e1e303095126d37)
+
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/bec038d36d975fb41e1e303095126d37" frameborder="0" allowfullscreen> iframe not supported </iframe>
+
 ### Tutorials
 
 * [Getting MAXQDA](https://mdlutoronto.github.io/maxqda-getting/)
